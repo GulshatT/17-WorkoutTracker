@@ -23,3 +23,5 @@ The user should be able to:
   * View the combined weight of multiple exercises from the past seven workouts on the `stats` page.
 
   * View the total duration of each workout from the past seven workouts on the `stats` page.
+
+  ![Image Alt Text](./img/img.JPG)
